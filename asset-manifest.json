@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/weijuchen/ScubaDivingWebsite_vercel/static/css/main.f3e4673d.css",
+    "main.js": "/weijuchen/ScubaDivingWebsite_vercel/static/js/main.818d9735.js",
+    "static/media/TipsImage2.jpg": "/weijuchen/ScubaDivingWebsite_vercel/static/media/TipsImage2.2d6d331e0082687b32fa.jpg",
+    "static/media/LoginImage.jpg": "/weijuchen/ScubaDivingWebsite_vercel/static/media/LoginImage.2146e33855d488395582.jpg",
+    "static/media/RegisterImage.jpg": "/weijuchen/ScubaDivingWebsite_vercel/static/media/RegisterImage.80c7d85868a8a0610351.jpg",
+    "static/media/product1.jpg": "/weijuchen/ScubaDivingWebsite_vercel/static/media/product1.38796cab202093b48c01.jpg",
+    "static/media/product5.jpg": "/weijuchen/ScubaDivingWebsite_vercel/static/media/product5.a4abbfa8a6c6ea667709.jpg",
+    "static/media/Detail.jpeg": "/weijuchen/ScubaDivingWebsite_vercel/static/media/Detail.543fa3338e18b2145d49.jpeg",
+    "static/media/TipsImage1.jpg": "/weijuchen/ScubaDivingWebsite_vercel/static/media/TipsImage1.c124d1dba3606d9cab74.jpg",
+    "static/media/Article1Image2.jpg": "/weijuchen/ScubaDivingWebsite_vercel/static/media/Article1Image2.a62cbf4e303c3a2984e3.jpg",
+    "static/media/Detail2.jpeg": "/weijuchen/ScubaDivingWebsite_vercel/static/media/Detail2.b44dca8593ddb669fcae.jpeg",
+    "static/media/product4.jpg": "/weijuchen/ScubaDivingWebsite_vercel/static/media/product4.664d5e44547e5420f0e4.jpg",
+    "static/media/HomeImage.jpg": "/weijuchen/ScubaDivingWebsite_vercel/static/media/HomeImage.9a744f62320cf4cb9ba9.jpg",
+    "static/media/Article1Image3.jpg": "/weijuchen/ScubaDivingWebsite_vercel/static/media/Article1Image3.a95b86ee69bbd0d40888.jpg",
+    "static/media/product3.jpg": "/weijuchen/ScubaDivingWebsite_vercel/static/media/product3.54de65d3ce634c9b5550.jpg",
+    "static/media/product2.jpg": "/weijuchen/ScubaDivingWebsite_vercel/static/media/product2.80d4661c2835557a0d1d.jpg",
+    "static/media/product6.jpg": "/weijuchen/ScubaDivingWebsite_vercel/static/media/product6.aa458fb96784a5b5724d.jpg",
+    "static/media/Detail3.jpg": "/weijuchen/ScubaDivingWebsite_vercel/static/media/Detail3.c29baeb3aaa966b58c0b.jpg",
+    "static/media/Article1TopImage.jpg": "/weijuchen/ScubaDivingWebsite_vercel/static/media/Article1TopImage.c87f636a6db61536ac2a.jpg",
+    "index.html": "/weijuchen/ScubaDivingWebsite_vercel/index.html",
+    "main.f3e4673d.css.map": "/weijuchen/ScubaDivingWebsite_vercel/static/css/main.f3e4673d.css.map",
+    "main.818d9735.js.map": "/weijuchen/ScubaDivingWebsite_vercel/static/js/main.818d9735.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f3e4673d.css",
+    "static/js/main.818d9735.js"
+  ]
+}
