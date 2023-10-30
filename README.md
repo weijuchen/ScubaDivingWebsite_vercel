@@ -1,5 +1,8 @@
-You could see the website through the following link:
-https://weijuchen.github.io/
+You could check the website at the following link:
+
+https://weijuchen.github.io/ScubaDivingWebsite_vercel/
+
+
 
 
 
