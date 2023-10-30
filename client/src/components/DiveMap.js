@@ -32,8 +32,8 @@ const DiveMapView = () => {
       <h3>South-East Asia </h3>
       <br />
       <br />
-      
-      <LoadScript googleMapsApiKey={googlemapsapikey}>
+      <LoadScript googleMapsApiKey={process.env.REACT_APP_GOOGLE_MAPS_API_KEY}>
+        {/* <LoadScript googleMapsApiKey={googlemapsapikey}> */}
         <div className="region1_top1">
           <h3> Top1: Sipadan Island, Malaysia </h3>
           <GoogleMap
